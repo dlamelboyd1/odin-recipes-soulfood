@@ -1,1 +1,0 @@
-Hello World! This is my very first project webpage using HTML, and I want to see if how fluent I am in HTML
